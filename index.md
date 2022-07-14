@@ -1,7 +1,3 @@
-Pything Projects
-----
-
-
 | Apppath | Warg | Draugr |
 |---|---|---|
 | ![logo](https://raw.githubusercontent.com/pything/apppath/master/.github/images/apppath.svg)| ![logo](https://raw.githubusercontent.com/pything/warg/master/.github/images/warg.svg) | ![logo](https://raw.githubusercontent.com/pything/draugr/master/.github/images/valknut.svg) |
