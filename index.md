@@ -4,7 +4,7 @@
 [![Github](https://raw.githubusercontent.com/pything/devpack/master/.github/images/octocat.svg)](https://github.com/pything)
 
 
-| Apppath | Warg | Draugr |
+| __Apppath__ | __Warg__ | __Draugr__ |
 |---|---|---|
 | ![logo](https://raw.githubusercontent.com/pything/apppath/master/.github/images/apppath.svg)| ![logo](https://raw.githubusercontent.com/pything/warg/master/.github/images/warg.svg) | ![logo](https://raw.githubusercontent.com/pything/draugr/master/.github/images/valknut.svg) |
 | [Github](https://github.com/pything/Apppath) | [Github](https://github.com/pything/Warg) | [Github](https://github.com/pything/Draugr) |
@@ -12,7 +12,7 @@
 | [Docs](https://pything.github.io/apppath/github/html/index.html) | [Docs](https://pything.github.io/warg/github/html/index.html) | [Docs](https://pything.github.io/draugr/github/html/index.html) |
 
 
-| Devpack | Notus | Postdoc |
+| __Devpack__ | __Notus__ | __Postdoc__ |
 |---|---|---|
 | ![logo](https://avatars.githubusercontent.com/u/25246305?s=200&v=4)| ![logo](https://raw.githubusercontent.com/pything/notus/master/.github/images/toaster.svg) | ![logo](https://raw.githubusercontent.com/pything/postdoc/master/.github/images/header.png) |
 | [Github](https://github.com/pything/Devpack) | [Github](https://github.com/pything/Notus) | [Github](https://github.com/pything/Postdoc) |
