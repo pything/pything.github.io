@@ -1,10 +1,11 @@
-theme: jekyll-theme-primer
+theme: jekyll-theme-minimal
+#theme: jekyll-theme-primer
 #theme: jekyll-theme-tactile
 title: Pything
 description: Projects
 #show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
 #google_analytics: [Your Google Analytics tracking ID]
-#theme: jekyll-theme-minimal
+
 logo: https://avatars.githubusercontent.com/u/25246305?s=200&v=4
 #logo: /uploads/logo.png
 
