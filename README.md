@@ -1,4 +1,1 @@
----
-
----
-# [pything.github.io](https://pything.github.io)
+# [Pything Github Landing Page](https://pything.github.io)
