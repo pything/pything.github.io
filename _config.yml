@@ -1,4 +1,5 @@
-theme: jekyll-theme-tactile
+theme: jekyll-theme-primer
+#theme: jekyll-theme-tactile
 title: Pything
 description: Projects
 #show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
